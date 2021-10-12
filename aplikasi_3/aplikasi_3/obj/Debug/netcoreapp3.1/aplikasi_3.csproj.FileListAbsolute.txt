@@ -1,0 +1,15 @@
+C:\Users\62812\source\repos\aplikasi_3\aplikasi_3\bin\Debug\netcoreapp3.1\aplikasi_3.exe
+C:\Users\62812\source\repos\aplikasi_3\aplikasi_3\bin\Debug\netcoreapp3.1\aplikasi_3.deps.json
+C:\Users\62812\source\repos\aplikasi_3\aplikasi_3\bin\Debug\netcoreapp3.1\aplikasi_3.runtimeconfig.json
+C:\Users\62812\source\repos\aplikasi_3\aplikasi_3\bin\Debug\netcoreapp3.1\aplikasi_3.runtimeconfig.dev.json
+C:\Users\62812\source\repos\aplikasi_3\aplikasi_3\bin\Debug\netcoreapp3.1\aplikasi_3.dll
+C:\Users\62812\source\repos\aplikasi_3\aplikasi_3\bin\Debug\netcoreapp3.1\aplikasi_3.pdb
+C:\Users\62812\source\repos\aplikasi_3\aplikasi_3\obj\Debug\netcoreapp3.1\aplikasi_3.csproj.AssemblyReference.cache
+C:\Users\62812\source\repos\aplikasi_3\aplikasi_3\obj\Debug\netcoreapp3.1\aplikasi_3.csproj.GenerateResource.cache
+C:\Users\62812\source\repos\aplikasi_3\aplikasi_3\obj\Debug\netcoreapp3.1\aplikasi_3.AssemblyInfoInputs.cache
+C:\Users\62812\source\repos\aplikasi_3\aplikasi_3\obj\Debug\netcoreapp3.1\aplikasi_3.AssemblyInfo.cs
+C:\Users\62812\source\repos\aplikasi_3\aplikasi_3\obj\Debug\netcoreapp3.1\aplikasi_3.csproj.CoreCompileInputs.cache
+C:\Users\62812\source\repos\aplikasi_3\aplikasi_3\obj\Debug\netcoreapp3.1\aplikasi_3.dll
+C:\Users\62812\source\repos\aplikasi_3\aplikasi_3\obj\Debug\netcoreapp3.1\aplikasi_3.pdb
+C:\Users\62812\source\repos\aplikasi_3\aplikasi_3\obj\Debug\netcoreapp3.1\aplikasi_3.genruntimeconfig.cache
+C:\Users\62812\source\repos\aplikasi_3\aplikasi_3\obj\Debug\netcoreapp3.1\aplikasi_3.Form1.resources
